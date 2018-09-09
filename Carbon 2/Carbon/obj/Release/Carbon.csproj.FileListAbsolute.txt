@@ -1,0 +1,14 @@
+D:\Projects\Carbon\HackTheUEditions\09-08\Carbon\bin\Release\Carbon.exe.config
+D:\Projects\Carbon\HackTheUEditions\09-08\Carbon\bin\Release\Carbon.exe
+D:\Projects\Carbon\HackTheUEditions\09-08\Carbon\bin\Release\Carbon.pdb
+D:\Projects\Carbon\HackTheUEditions\09-08\Carbon\obj\Release\CarboUiComponent.Carbobutton.resources
+D:\Projects\Carbon\HackTheUEditions\09-08\Carbon\obj\Release\Carbon.GroupPanel.resources
+D:\Projects\Carbon\HackTheUEditions\09-08\Carbon\obj\Release\Carbon.HelpForm.resources
+D:\Projects\Carbon\HackTheUEditions\09-08\Carbon\obj\Release\Carbon.MainForm.resources
+D:\Projects\Carbon\HackTheUEditions\09-08\Carbon\obj\Release\Carbon.MeetingPanel.resources
+D:\Projects\Carbon\HackTheUEditions\09-08\Carbon\obj\Release\Carbon.PostPanel.resources
+D:\Projects\Carbon\HackTheUEditions\09-08\Carbon\obj\Release\Carbon.Properties.Resources.resources
+D:\Projects\Carbon\HackTheUEditions\09-08\Carbon\obj\Release\Carbon.csproj.GenerateResource.cache
+D:\Projects\Carbon\HackTheUEditions\09-08\Carbon\obj\Release\Carbon.csproj.CoreCompileInputs.cache
+D:\Projects\Carbon\HackTheUEditions\09-08\Carbon\obj\Release\Carbon.exe
+D:\Projects\Carbon\HackTheUEditions\09-08\Carbon\obj\Release\Carbon.pdb
